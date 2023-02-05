@@ -1,0 +1,172 @@
+.logo {
+width:75px;
+height:50px;
+}
+nav {
+border-bottom:1px solid #f7f7fc;
+position:fixed;
+background-color:white;
+left:0px;
+width:100%;
+top:0px;
+}
+.infoheader1{
+  color:red;
+}
+header {
+padding:30px 10px;
+
+}
+.infotext {
+color:#2a1b3d;
+font-family:Tahoma,Arial,sans-serif;
+word-spacing:3px;
+font-size:16px;
+line-height:33px;
+margin:3px;
+}
+.infoheader{
+   color:#333322;
+   word-spacing:5px;
+   font-family:cursive;
+   line-height:40px;
+}
+.info{
+background:#f7f7fd;
+padding-top:370px;
+padding-left:10px;
+padding-bottom:100px;
+margin-left:-7.7px;
+margin-right:-7.7px;
+}
+.info2 {
+  background:white;
+  margin:10px;
+}
+.food4 {
+width:90%;
+border-radius:20px;
+display:inline-block;
+padding:15px;
+height:250px;
+}
+body {
+justify-content:center;
+align-items:center;
+font-family:Arial,sans-serif;
+}
+.images {
+background:#e8f1e9;
+padding:15px 35px;
+margin-left:-7.7px;
+margin-right:-7.7px;
+white-space:nowrap;
+overflow-y:hidden;
+overflow-x:auto;
+display:inline-block;
+}
+.menubutton {
+background:transparent;
+outline:none;
+border:none;
+display:block;
+position:relative;
+float:right;
+top:10px;
+right:4px;
+}
+.menucbutton {
+background:transparent;
+outline:none;
+border:none;
+font-size:40px;
+float:right;
+top:16px;
+display:none;
+font-size:50px;
+}
+
+ hr {
+ width:25px;
+ border-radius:50px;
+ border:1px solid #22233f;
+ }.menuitems 
+ {
+ display:none;
+ text-align:left;
+ height:800px;
+ top:53px;
+ position:absolute;
+ background:white;
+ font-size:15px;
+ width:90%;
+ }
+ footer {
+   background-color:black;
+   padding:130px 30px;
+   position:absolute;
+   left:0px;
+   right:0px;
+ }
+ .logo2 {
+   width:130px;
+ }
+ a {
+ padding:15px;
+ text-decoration:none;
+ }
+ .special {
+  width:100%;
+  border:1px solid #1A1A1B;
+ }
+ .info3 {
+    
+    background:#f7f7fd;
+    padding-top:75px;
+    padding-left:10px;
+    padding-bottom:50px;
+    margin-left:-7.7px;
+    margin-right:-7.7px;
+    
+ }
+ .link {
+   color:black;
+   text-decoration-color:green;
+   text-decoration-line:dotted;
+   text-decoration:underline;
+   font-size:15px;
+ }
+ .f1 {
+   width:85%;
+   padding:5px;
+   border:none;
+   border-bottom:1px solid #A1a1ad;
+   background-color:transparent;
+   font-size:15px;
+   font-family:monospace;
+   outline:none;
+ }
+ label {
+   color:gray;
+   margin:30px;
+ }
+ .submitbtn {
+ color:black;
+ background:transparent;
+ border:1px solid gray;
+ width:50%;
+ padding:10px;
+ outline:none;
+ }
+ .submitbtn:active {
+   color:white;
+   background:black;
+ }
+ table {
+ width:99%;
+ border:1px solid gray;
+ }
+ td, th{
+ padding:40px 10px;
+ border:1px solid gray;
+ }
